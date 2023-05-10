@@ -1,0 +1,1 @@
+import{Q as a,R as t,S as s,I as r}from"./entry.113fea92.js";const u=a((o,i)=>{const e=t();if(console.log("--mid--"),console.log(e),!e.value)return s("redirect",{path:"/"}).value=o.fullPath,r("/admin/login")});export{u as default};
